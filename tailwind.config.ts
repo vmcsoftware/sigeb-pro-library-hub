@@ -61,6 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				sigeb: {
+					primary: 'hsl(var(--sigeb-primary))',
+					'primary-dark': 'hsl(var(--sigeb-primary-dark))',
+					accent: 'hsl(var(--sigeb-accent))',
+					dark: 'hsl(var(--sigeb-dark))',
+					'dark-lighter': 'hsl(var(--sigeb-dark-lighter))',
+					gray: 'hsl(var(--sigeb-gray))',
+					success: 'hsl(var(--sigeb-success))',
+					warning: 'hsl(var(--sigeb-warning))',
+					info: 'hsl(var(--sigeb-info))'
 				}
 			},
 			borderRadius: {
